@@ -1,3 +1,4 @@
+import 'package:bloodpress_mgmt/screens/record_screen.dart';
 import 'package:fluentui_icons/fluentui_icons.dart';
 import 'package:flutter/material.dart';
 
@@ -16,7 +17,7 @@ class _BottomBarState extends State<BottomBar> {
 
   static final List<Widget> _widgetOption = <Widget>[
     InputScreen(),
-    Text("기록"),
+    RecordViewScreen(),
     Text("통계"),
     Text("설정"),
   ];
