@@ -38,6 +38,8 @@ dependencies:
   gap: ^2.0.0
   date_picker_timeline: ^1.2.3
   google_fonts: ^3.0.1
+  sqflite: ^2.0.3+1
+  path: ^1.8.1
 
 dev_dependencies:
   flutter_test:
